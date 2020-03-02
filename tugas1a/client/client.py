@@ -9,7 +9,7 @@ server_address = ('localhost', 9998)
 print('connecting to %s port %s' % server_address , file=sys.stderr)
 sock.connect(server_address)
 
-file = open('HelloClient.jpg','rb')
+file = open('HelloClient.txt','rb')
 file_send = file.read(1024)
 
 try:

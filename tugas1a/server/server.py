@@ -8,7 +8,7 @@ print('starting up on %s port %s' % server_address , file=sys.stderr)
 sock.bind(server_address)
 # Listen for incoming connections
 sock.listen(1)
-file = open('HelloServer.jpg','wb')
+file = open('HelloServer.txt','wb')
 while True:
 	# Wait for a connection
 	print('waiting for a connection' , file=sys.stderr)
