@@ -1,4 +1,4 @@
 # Tugas 3
 
-![terminal](/tugas3/penampakan terminal.png)
+![terminal](https://github.com/hendraramadani/PROGJAR_05111740000055/blob/master/tugas3/penampakan%20terminal.PNG)
 
