@@ -1,3 +1,4 @@
-# PROGJAR_05111740000055
+# Tugas 3
 
-Hendra Ramadani 05111740000055
+![GitHub Logo](/tugas3/penampakan terminal.png)
+
