@@ -15,7 +15,7 @@ while True:
     command = input("enter command : ")
     if (command=='download'):
         filename = input("enter namefile : ")
-        (sock,command,filename)
+        c_download(sock,command,filename)
         sock.close()
     elif (command=='upload'):
         filename = input("enter namefile : ")

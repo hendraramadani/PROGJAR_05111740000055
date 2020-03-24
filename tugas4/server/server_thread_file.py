@@ -29,12 +29,13 @@ class ProcessTheClient(threading.Thread):
                     dd, data = data.split(b'split', 1)
                 d = data.decode()
                 cstring = d.split(" ")
-                print(cstring)
-                print(d)
-                print(dd)
+                # print(cstring)
+                # print(d)
+                # print(dd)
                 command = cstring[0].strip()
                 hasil = fm.proses(d, dd)
                 if(command == "download"):
+                    # print('a')
                     self.connection.sendall(hasil)
                 elif (command == "list"):
                     self.connection.sendall(hasil.encode())

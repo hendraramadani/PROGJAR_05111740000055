@@ -2,39 +2,7 @@ from file import File
 import json
 import logging
 
-'''
-PROTOCOL FORMAT
 
-string terbagi menjadi 2 bagian, dipisahkan oleh spasi
-COMMAND spasi PARAMETER spasi PARAMETER ...
-
-FITUR
-
-- create : untuk membuat record
-  request : create
-  parameter : nama spasi notelpon
-  response : berhasil -> ok
-             gagal -> error
-
-- delete : untuk menghapus record
-  request: delete
-  parameter : id
-  response: berhasil -> OK
-            gagal -> ERROR
-
-- list : untuk melihat daftar record
-  request: list
-  parameter: tidak ada
-  response: daftar record person yang ada
-
-- get : untuk mencari record berdasar nama
-  request: get 
-  parameter: nama yang dicari
-  response: record yang dicari dalam bentuk json format
-
-- jika command tidak dikenali akan merespon dengan ERRCMD
-
-'''
 p = File()
 
 class FileMachine:
