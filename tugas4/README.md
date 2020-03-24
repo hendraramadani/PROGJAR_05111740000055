@@ -1,33 +1,33 @@
 
 
-![enter image description here](Dokumentasi/run program.PNG)
+![enter image description here](Dokumentasi/run program.png)
 
 
-![enter image description here](Dokumentasi/client.PNG)
+![enter image description here](Dokumentasi/client.png)
 
 
-![enter image description here](Dokumentasi/list.PNG)
+![enter image description here](Dokumentasi/list.png)
 
 
-![enter image description here](Dokumentasi/download.PNG)
+![enter image description here](Dokumentasi/download.png)
 
 
-![enter image description here](Dokumentasi/upload.PNG)
+![enter image description here](Dokumentasi/upload.png)
 
 
-![enter image description here](Dokumentasi/code download.PNG)
+![enter image description here](Dokumentasi/code download.png)
 
 
-![enter image description here](Dokumentasi/code upload.PNG)
+![enter image description here](Dokumentasi/code upload.png)
 
 
-![enter image description here](Dokumentasi/code list.PNG)
+![enter image description here](Dokumentasi/code list.png)
 
 
-![enter image description here](Dokumentasi/protocol.PNG)
+![enter image description here](Dokumentasi/protocol.png)
 
 
-![enter image description here](Dokumentasi/storage server.PNG)
+![enter image description here](Dokumentasi/storage server.png)
 
 
-![enter image description here](Dokumentasi/storage client.PNG)
+![enter image description here](Dokumentasi/storage client.png)
