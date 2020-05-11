@@ -1,7 +1,7 @@
 # Tugas 9 - asynchronous processing
 
 ## Server_thread_http.py di port 46000
-### 1. ab -n 1000 -c 1 http://127.0.0.1:46000/
+### 1. `ab -n 1000 -c 1 http://127.0.0.1:46000/`
 1000 Request with 1 concurency
 
 ![enter image description here](Dokumentasi/Thread/1.1.PNG)
