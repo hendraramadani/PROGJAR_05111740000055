@@ -2,10 +2,12 @@
 ## Hendra Ramadani (05111740000055)
 
 Pertama-tama kita jalankan dulu server_thread / async_server , lalu kita jalankan runserver.sh dengan command `bash runserver.sh` , setelah itu yang terakhir kita jalankan load balancernya 
+
 ![enter image description here](Dokumentasi/run.PNG)
 
 lalu coba kita akses http://localhost:44444/page.html
-![enter image description here](Dokumentasi/web.PNG)
+
+![enter image description here](Dokumentasi/browser.PNG)
 
 
 Untuk benchmarking menggunakan port dari loadbalancer
